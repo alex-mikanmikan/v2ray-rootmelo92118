@@ -1,5 +1,5 @@
 # v2ray
-最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
+也许是第二好用的 V2Ray 一键安装脚本 &amp; 管理脚本
 
 ## 脚本说明
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
@@ -12,3 +12,9 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+## 安装步骤请参照上述网站
+安装时候需要将`bash <(curl -s -L https://git.io/v2ray.sh)`中的链接更换为`bash <(curl -s -L https://raw.githubusercontent.com/alex-mikanmikan/v2ray-rootmelo92118/master/install.sh?v)`
+
+本脚本修改自 233boy/v2ray Fork自rootmelo92118 
+意旨在域执行网络中立性 取消拦截网站
