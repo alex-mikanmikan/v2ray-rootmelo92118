@@ -16,5 +16,4 @@ https://github.com/233boy/v2ray/wiki
 ## 安装步骤请参照上述网站
 安装时候需要将`bash <(curl -s -L https://git.io/v2ray.sh)`中的链接更换为`bash <(curl -s -L https://raw.githubusercontent.com/alex-mikanmikan/v2ray-rootmelo92118/master/install.sh?v)`
 
-本脚本修改自 233boy/v2ray Fork自rootmelo92118 
-意旨在域执行网络中立性 取消拦截网站
+本脚本修改自 233boy/v2ray Fork自rootmelo92118 取消拦截某些网站
